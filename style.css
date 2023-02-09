@@ -1,0 +1,27 @@
+body {background-color: red;}
+header {background-color: aqua;}
+section {background-color: blue;}
+body {color: white;}
+section {color: orange;}
+h2 {color: darkgray;}
+#about {background-color: gray;}
+#units {background-color: purple;}
+#boxmodel, #units {
+    background-color: gold;
+}
+.codebox {background-color: teal;}
+section.codebox {
+    background-color: teal;}
+    nav ul {list-style-type: none;}
+    nav li {background-color: black;}
+    nav li {color: white;}
+    #about img {max-width: 30%;}
+    nav ul {background-color: skyblue; margin: 80px; padding: 80px;}
+    .red {color: red; margin: 10px;}
+    h1 {margin: 10px;}
+    h2 {margin: 15px;}
+    nav ul {
+        margin-inline-start: 0px;
+        margin-inline-end: 25px;
+        margin-block-start: 8px;
+        margin-block-end: 22px;}
